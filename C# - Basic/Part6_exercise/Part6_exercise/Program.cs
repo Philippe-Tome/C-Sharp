@@ -115,12 +115,77 @@ namespace Part6_exercise
             //foreach (var number in numbers)
             //    Console.WriteLine(number);
 
-            //////////////////////////////////////////////////////////////////////////////////////////////////
+            ////////////////////////////////////////////////////////////////////////////////////////////////////
 
-            //4 - Write a program and ask the user to continuously enter a number or type "Quit" to exit. The list of numbers may include duplicates.Display the unique numbers that the user has entered.
+            //4 - Write a program and ask the user to continuously enter a number or type "Quit" to exit. The list of numbers may include duplicates. Display the unique numbers that the user has entered.
+
+            //var numbers = new List<int>();
+
+            //while (true)
+            //{
+            //    Console.WriteLine("Enter a number or type \"Quit\" to exit: ");
+            //    var input = Console.ReadLine();
+
+            //    if (input.ToLower() == "quit")
+            //        break;
+
+            //        numbers.Add(Convert.ToInt32(input));
+            //}
+
+            //var uniques = new List<int>();
+            //foreach ( var number in numbers)
+            //{
+            //    if (!uniques.Contains(number))
+            //        uniques.Add(number);
+            //}
+
+            //Console.WriteLine("Unique Numbers:");
+            //foreach (var u in uniques)
+            //    Console.WriteLine(u);
+
+            ////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+            //5 - Write a program and ask the user to supply a list of comma separated numbers(e.g 5, 1, 9, 2, 10). If the list is empty or includes less than 5 numbers, display "Invalid List" and ask the user to re-try; otherwise, display the 3 smallest numbers in the list.
 
+            string[] elements;
+
+            while (true)
+            {
+                Console.WriteLine("Enter a list of 5 numbers separated by commas: ");
+                var input = Console.ReadLine();
+
+                elements = input.Split(',');
+
+                if (!String.IsNullOrWhiteSpace(input) && elements.Length >= 5)
+                    break;
+
+                if (elements.Length < 5)
+                    Console.WriteLine("Invalid List. Re-try.");
+            }
+            
+            var numbers = new List<int>();
+            foreach (var number in elements)
+                numbers.Add(Convert.ToInt32(number));
+
+            var smallests = new List<int>();
+            while (smallests.Count < 3)
+            {
+                // Assume the first number is the smallest
+                var min = numbers[0];
+                foreach (var number in numbers)
+                {
+                    if (number < min)
+                        min = number;
+                }
+                smallests.Add(min);
+
+                numbers.Remove(min);
+            }
+
+            Console.WriteLine("The smallest 3 numbers are: ");
+            foreach (var n in smallests)
+                Console.WriteLine(n);
         }
     }
 }
