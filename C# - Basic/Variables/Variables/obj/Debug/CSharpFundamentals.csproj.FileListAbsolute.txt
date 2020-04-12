@@ -1,0 +1,7 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\bin\Debug\Variables.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\bin\Debug\Variables.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\bin\Debug\Variables.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\obj\Debug\CSharpFundamentals.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\obj\Debug\Variables.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\obj\Debug\Variables.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Variables\Variables\obj\Debug\CSharpFundamentals.csprojAssemblyReference.cache

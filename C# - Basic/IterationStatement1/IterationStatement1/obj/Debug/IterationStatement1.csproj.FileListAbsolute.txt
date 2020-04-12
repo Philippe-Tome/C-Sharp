@@ -1,0 +1,7 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\bin\Debug\IterationStatement1.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\bin\Debug\IterationStatement1.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\bin\Debug\IterationStatement1.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\obj\Debug\IterationStatement1.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\obj\Debug\IterationStatement1.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\obj\Debug\IterationStatement1.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\IterationStatement1\IterationStatement1\obj\Debug\IterationStatement1.csprojAssemblyReference.cache

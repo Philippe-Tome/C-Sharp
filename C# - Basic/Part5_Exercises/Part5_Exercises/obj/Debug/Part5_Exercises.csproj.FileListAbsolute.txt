@@ -1,0 +1,7 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\obj\Debug\Part5_Exercises.csprojAssemblyReference.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\obj\Debug\Part5_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\bin\Debug\Part5_Exercises.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\bin\Debug\Part5_Exercises.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\bin\Debug\Part5_Exercises.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\obj\Debug\Part5_Exercises.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C# - Basic\Part5_Exercises\Part5_Exercises\obj\Debug\Part5_Exercises.pdb
