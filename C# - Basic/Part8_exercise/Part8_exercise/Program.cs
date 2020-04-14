@@ -37,30 +37,30 @@ namespace Part8_exercise
             //Console.WriteLine(message);
 
 
-            //*****************
-            //// From Mosh:
+            ////*****************
+            //// from mosh:
 
-            //Console.Write("Enter a few numbers (eg 1-2-3-4): ");
-            //var input = Console.ReadLine();
+            //console.write("enter a few numbers (eg 1-2-3-4): ");
+            //var input = console.readline();
 
-            //var numbers = new List<int>();
-            //foreach (var number in input.Split('-'))
-            //    numbers.Add(Convert.ToInt32(number));
+            //var numbers = new list<int>();
+            //foreach (var number in input.split('-'))
+            //    numbers.add(convert.toint32(number));
 
-            //numbers.Sort();
+            //numbers.sort();
 
-            //var isConsecutive = true;
-            //for (var i = 1; i < numbers.Count; i++)
+            //var isconsecutive = true;
+            //for (var i = 1; i < numbers.count; i++)
             //{
             //    if (numbers[i] != numbers[i - 1] + 1)
             //    {
-            //        isConsecutive = false;
+            //        isconsecutive = false;
             //        break;
             //    }
             //}
 
-            //var message = isConsecutive ? "Consecutive" : "Not Consecutive";
-            //Console.WriteLine(message);
+            //var message = isconsecutive ? "consecutive" : "not consecutive";
+            //console.writeline(message);
 
             ///////////////////////////////////////////////////////////////////////////////
 
@@ -99,45 +99,47 @@ namespace Part8_exercise
             //foreach (var number in input.Split('-'))
             //    numbers.Add(Convert.ToInt32(number));
 
-            //var uniques = new List<int>();
-            //var includesDuplicates = false;
-            //foreach (var number in numbers)
-            //{
-            //    if (!uniques.Contains(number))
-            //        uniques.Add(number);
-            //    else
-            //    {
-            //        includesDuplicates = true;
-            //        break;
-            //    }
-            //}
+            ////var uniques = new List<int>();
+            ////var includesDuplicates = false;
+            ////foreach (var number in numbers)
+            ////{
+            ////    if (!uniques.Contains(number))
+            ////        uniques.Add(number);
+            ////    else
+            ////    {
+            ////        includesDuplicates = true;
+            ////        break;
+            ////    }
+            ////}
 
-            //if (includesDuplicates)
+            //if (ContainsDuplicates(numbers))
             //    Console.WriteLine("Duplicate");
+
+
 
 
             ///////////////////////////////////////////////////////////////////////////////
 
-            ////3- Write a program and ask the user to enter a time value in the 24-hour time format (e.g. 19:00). A valid time should be between 00:00 and 23:59. If the time is valid, display "Ok"; otherwise, display "Invalid Time". If the user doesn't provide any values, consider it as invalid time.
+            //3- write a program and ask the user to enter a time value in the 24-hour time format (e.g. 19:00). a valid time should be between 00:00 and 23:59. if the time is valid, display "ok"; otherwise, display "invalid time". if the user doesn't provide any values, consider it as invalid time.
 
-            //Console.WriteLine("Enter a time value in 24h format: ");
-            //var input = Console.ReadLine();
-            //var validTime = false;
+            //console.writeline("enter a time value in 24h format: ");
+            //var input = console.readline();
+            //var validtime = false;
 
-            //if (String.IsNullOrEmpty(input))
-            //    validTime = false;
+            //if (string.isnullorempty(input))
+            //    validtime = false;
 
-            //var time = new List<int>();
-            //foreach (var number in input.Split(':'))
-            //    time.Add(Convert.ToInt32(number));
+            //var time = new list<int>();
+            //foreach (var number in input.split(':'))
+            //    time.add(convert.toint32(number));
 
             //if (time[0] < 24 && time[0] >= 0 && time[1] < 60 && time[1] >= 0)
-            //    validTime = true;
+            //    validtime = true;
 
-            //if (validTime)
-            //    Console.WriteLine("Valid Time Format");
+            //if (validtime)
+            //    console.writeline("valid time format");
             //else
-            //    Console.WriteLine("Invalid Time Format!");
+            //    console.writeline("invalid time format!");
 
 
             //////*****************
@@ -228,23 +230,41 @@ namespace Part8_exercise
 
             ///////////////////////////////////////////////////////////////////////////////
 
-            //5- Write a program and ask the user to enter an English word. Count the number of vowels (a, e, o, u, i) in the word. So, if the user enters "inadequate", the program should display 6 on the console.
+            ////5- Write a program and ask the user to enter an English word. Count the number of vowels (a, e, o, u, i) in the word. So, if the user enters "inadequate", the program should display 6 on the console.
 
-            // From Mosh:
-            Console.WriteLine("Enter a word: ");
-            var input = Console.ReadLine().ToLower();
+            //// From Mosh:
+            //Console.WriteLine("Enter a word: ");
+            //var input = Console.ReadLine().ToLower();
 
-            var vowels = new List<char>(new char[] { 'a', 'e', 'i', 'o', 'u' });
-            var vowelCount = 0;
+            //var vowels = new List<char>(new char[] { 'a', 'e', 'i', 'o', 'u' });
+            //var vowelCount = 0;
 
-            foreach (var character in input)
-            {
-                if (vowels.Contains(character))
-                    vowelCount++;
-            }
+            //foreach (var character in input)
+            //{
+            //    if (vowels.Contains(character))
+            //        vowelCount++;
+            //}
 
-            Console.WriteLine(vowelCount);
+            //Console.WriteLine(vowelCount);
 
         }
+
+        // Procedural:
+            // Exercise 2:
+            public bool ContainsDuplicates(List<int> numbers)
+            {
+                var uniques = new List<int>();
+                foreach (var number in numbers)
+                {
+                    if (!uniques.Contains(number))
+                        uniques.Add(number);
+                    else
+                        return true;
+                }
+                return false;
+            }
+
+            // Exercise 3:
+
     }
 }
