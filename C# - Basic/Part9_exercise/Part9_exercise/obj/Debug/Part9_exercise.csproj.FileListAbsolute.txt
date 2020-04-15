@@ -1,0 +1,7 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\bin\Debug\Part9_exercise.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\bin\Debug\Part9_exercise.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\bin\Debug\Part9_exercise.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\obj\Debug\Part9_exercise.csprojAssemblyReference.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\obj\Debug\Part9_exercise.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\obj\Debug\Part9_exercise.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Basic\Part9_exercise\Part9_exercise\obj\Debug\Part9_exercise.pdb
