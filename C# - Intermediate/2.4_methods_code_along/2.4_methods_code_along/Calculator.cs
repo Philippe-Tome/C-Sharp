@@ -1,4 +1,4 @@
-﻿namespace _2._4_methods_code_along
+﻿Snamespace _2._4_methods_code_along
 {
     partial class Program
     {
