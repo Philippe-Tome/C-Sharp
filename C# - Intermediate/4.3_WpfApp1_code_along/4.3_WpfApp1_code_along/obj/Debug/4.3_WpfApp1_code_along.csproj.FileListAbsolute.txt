@@ -1,0 +1,15 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\bin\Debug\4.3_WpfApp1_code_along.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\bin\Debug\4.3_WpfApp1_code_along.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\bin\Debug\4.3_WpfApp1_code_along.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along.csprojAssemblyReference.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\MainWindow.g.cs
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\App.g.cs
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along_MarkupCompile.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along_MarkupCompile.lref
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\MainWindow.baml
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along.g.resources
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\_4._3_WpfApp1_code_along.Properties.Resources.resources
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along.csproj.GenerateResource.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.3_WpfApp1_code_along\4.3_WpfApp1_code_along\obj\Debug\4.3_WpfApp1_code_along.pdb
