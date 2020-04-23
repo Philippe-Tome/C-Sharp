@@ -1,0 +1,7 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\bin\Debug\3.3_composition_code_along.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\bin\Debug\3.3_composition_code_along.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\bin\Debug\3.3_composition_code_along.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\obj\Debug\3.3_composition_code_along.csprojAssemblyReference.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\obj\Debug\3.3_composition_code_along.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\obj\Debug\3.3_composition_code_along.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\3.3_composition_code_along\3.3_composition_code_along\obj\Debug\3.3_composition_code_along.pdb
