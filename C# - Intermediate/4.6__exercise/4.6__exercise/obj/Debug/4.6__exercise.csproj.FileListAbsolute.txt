@@ -1,0 +1,7 @@
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\bin\Debug\4.6__exercise.exe.config
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\bin\Debug\4.6__exercise.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\bin\Debug\4.6__exercise.pdb
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\obj\Debug\4.6__exercise.csprojAssemblyReference.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\obj\Debug\4.6__exercise.csproj.CoreCompileInputs.cache
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\obj\Debug\4.6__exercise.exe
+C:\Users\ptome\MEGA\Shared Emma - Philippe\Philippe\Study\Developer\C-Sharp\C# - Intermediate\4.6__exercise\4.6__exercise\obj\Debug\4.6__exercise.pdb
